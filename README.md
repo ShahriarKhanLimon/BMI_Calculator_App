@@ -15,7 +15,7 @@ A simple BMI (Body Mass Index) calculator app developed for Android. This app al
 <img src="Screenshots/main_screen.png" alt="Main Screen" width="200"/>
 
 ### Result Screens
-<img src="Screenshots/healthy.png" alt="Healthy Screen" width="200"/> <img src="Screenshots/underweight.png" alt="Underweight Screen" width="200"/> <img src="Screenshots/overweight.png" alt="Overweight Screen" width="200"/>
+<img src="Screenshots/healthy.png" alt="Healthy Screen" width="200"/>   <img src="Screenshots/underweight.png" alt="Underweight Screen" width="200"/>   <img src="Screenshots/overweight.png" alt="Overweight Screen" width="200"/>
 
 
 ## Technologies Used
