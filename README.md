@@ -12,8 +12,7 @@ A simple BMI (Body Mass Index) calculator app developed for Android. This app al
 ## Screenshots
 
 ### Main Screen
-![Main Screen]
-![Screenshot_20241009_015412](https://github.com/user-attachments/assets/2b3953dd-001a-482a-9796-3ff0b0c81c57)
+<img src="Screenshots/main_screen.png" alt="Main Screen" width="300"/>
 
 ### Result Screens
 ![Screenshot_20241009_015449](https://github.com/user-attachments/assets/97972140-b383-4e4f-907e-ae6bf9a71d9f)
