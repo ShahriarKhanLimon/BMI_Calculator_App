@@ -12,12 +12,10 @@ A simple BMI (Body Mass Index) calculator app developed for Android. This app al
 ## Screenshots
 
 ### Main Screen
-<img src="BMI_Calculator_App/Screenshots/main_screen.png" alt="Main Screen" width="300"/>
+<img src="Screenshots/main_screen.png" alt="Main Screen" width="300"/>
 
 ### Result Screens
-![Screenshot_20241009_015449](https://github.com/user-attachments/assets/97972140-b383-4e4f-907e-ae6bf9a71d9f)
-![Screenshot_20241009_015535](https://github.com/user-attachments/assets/9e0c30ef-2ce8-463b-a60f-2b6a383135d6)
-![Screenshot_20241009_015507](https://github.com/user-attachments/assets/8fbbd86a-fb91-4e1f-93e3-1a8aa04abaf5)
+<img src="Screenshots/healthy.png" alt="Healthy Screen" width="300"/> <img src="Screenshots/underweight.png" alt="Underweight Screen" width="300"/> <img src="Screenshots/overweight.png" alt="Overweight Screen" width="300"/>
 
 
 ## Technologies Used
